@@ -5,7 +5,7 @@ public class App {
         double r,A,pi = Math.PI;;
         
         Scanner read = new Scanner(System.in);
-        System.out.println("Type your area value : ");
+        System.out.println("Type your radius value : ");
         r = read.nextDouble();
         
         A = pi * (r * r);
